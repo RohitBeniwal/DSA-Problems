@@ -38,7 +38,7 @@ cin.tie(0);
     }
     else{
         ll c=1;
-        for(int i=5;i*i<=n;i++){
+        for(int i=5;i*i<=n;i+=6){
             if((n%i)==0 && n%(i+2)==0){
                 cout<<"NO"<<endl;
                 c=0;
