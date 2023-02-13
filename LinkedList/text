@@ -1,0 +1,9 @@
+static arrays are located on stacks while dynamic arrays are allocated on heaps
+vector is a dynamically sized array
+
+in java all arrays are allocated on heaps and we have arraylist which is similar to vector, in java
+
+why we need linkedlinst -
+1.  Insertion/Deletion in middle of array is costly
+2. Implementation of data structures like queue and dequeue is costly with arrays
+
