@@ -1,0 +1,25 @@
+when you have to represent hierarchy
+it is a non linear data structure
+
+nodes which do not have anything below them are called leaf nodes
+node below a node is called is called children node
+and just above is parent node
+the top most node is called root node
+
+degree of a node is defined as the number of children it has
+nodes other than leaf nodes are called internal nodes
+
+
+Binary Tree
+
+have max degree 2
+eg- BST,Binary Heap,Segment Tree (for queries)etc.
+
+
+Tree Traversal-
+1.Breadth First (Level Order)
+2.Depth  First - 
+                    1. Inorder  L root R
+                    2. Preorder root L R
+                    3. Postorder  L R root
+
