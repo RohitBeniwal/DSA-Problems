@@ -23,3 +23,6 @@ Tree Traversal-
                     2. Preorder root L R
                     3. Postorder  L R root
 
+
+Height of a tree = max no. of nodes in a tree path or max no. of nodes in a tree path-1  .... depending on convention
+
